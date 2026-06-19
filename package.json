@@ -1,0 +1,22 @@
+{
+  "name": "ascii-image-reveal-on-scroll",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [
+    "ascii",
+    "canvas",
+    "image-reveal",
+    "scroll",
+    "animation"
+  ],
+  "author": "AJ (https://anassjid.dev)",
+  "homepage": "https://anassjid.dev",
+  "license": "ISC",
+  "description": "ASCII image reveal effect — images animate in as ASCII art before revealing the full photo.",
+  "dependencies": {
+    "vite": "^8.0.9"
+  }
+}
